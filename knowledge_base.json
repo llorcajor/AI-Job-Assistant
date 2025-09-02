@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Breakdown Reduction at Multiscan",
+    "associated_job": "Field Service Engineer | Multiscan Technologies",
+    "details": {
+      "situation": "Clients were experiencing frequent breakdowns with newly installed food classification machines, leading to increased support calls and customer dissatisfaction.",
+      "task": "My task was to identify the root cause of the breakdowns and implement a field-deployable solution to improve machine reliability.",
+      "action": "I analyzed service logs and discovered a common failure point in the product conveyor alignment. I designed and deployed a new calibration procedure and a small hardware modification, then trained other engineers on the fix.",
+      "result": "This initiative led to a 25% reduction in equipment breakdowns for the affected machine models and a measurable increase in positive customer feedback."
+    }
+  },
+  {
+    "title": "Drone System QA Process",
+    "associated_job": "Technical Support Engineer | PrimeCor Systems",
+    "details": {
+      "situation": "The company was preparing to launch a new drone safety system but lacked a formalized validation process, risking post-launch failures.",
+      "task": "I was tasked with leading the QA department to create and execute a comprehensive test plan to ensure system reliability before commercialization.",
+      "action": "I developed a multi-stage testing protocol, managed the testing schedule, documented all bugs in Jira, and worked with the development team to ensure all critical issues were resolved.",
+      "result": "The system launched with zero critical bugs, and we successfully installed it on over 10 client aircraft without any initial hardware or software failures."
+    }
+  }
+]

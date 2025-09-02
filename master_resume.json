@@ -1,0 +1,155 @@
+{
+  "contact_info": {
+    "name": "Jordi Llorca",
+    "email": "llorcajor22@gmail.com",
+    "phone": "+34 601237306",
+    "linkedin": "linkedin.com/in/llorcajor",
+    "location": "Spain"
+  },
+  "summary": "A highly skilled Field Service and Technical Support Engineer with a Master's in Robotics and Artificial Vision. Proven expertise in commissioning, QA, and customer support for advanced technological systems, including industrial AI vision and drone technology. Seeking to leverage technical and problem-solving skills in a challenging Field Service Engineer role.",
+  "work_experience": [
+    {
+      "title": "Technical Support Engineer",
+      "company": "PrimeCor Systems",
+      "dates": "Oct 2023 - Present",
+      "company_description": "This company is divided into three areas. It is dedicated to drone consulting (specifically, aircraft control), markets products to increase drone safety, and is developing a helicopter-type drone for surveillance and firefighting.",
+      "bullet_points": [
+        {
+          "text": "I led the QA department to validate the correct functioning of the systems prior to their commercialization.",
+          "keywords": ["QA", "validation", "testing"]
+        },
+        {
+          "text": "I led the installation of the systems at the customer's premises (more than 10 aircraft successfully installed).",
+          "keywords": ["installation", "field service"]
+        }
+      ]
+    },
+    {
+      "title": "Field Service Engineer",
+      "company": "Multiscan Technologies",
+      "dates": "Jan 2022 - Jan 2024",
+      "company_description": "This company is divided into three areas. It is dedicated to drone consulting (specifically, aircraft control), markets products to increase drone safety, and is developing a helicopter-type drone for surveillance and firefighting.",
+      "bullet_points": [
+        {
+          "text": "Performed on-site commissioning for over 20 industrial artificial vision machines designed for food classification (olives, citrus, blueberries).",
+          "keywords": [
+            "field service",
+            "commissioning",
+            "installation",
+            "artificial vision",
+            "machine vision",
+            "industrial automation"
+          ]
+        },
+        {
+          "text": "Engineered and implemented field improvements that successfully reduced equipment breakdowns by 25%, primarily enhancing product classification accuracy.",
+          "keywords": [
+            "troubleshooting",
+            "process improvement",
+            "maintenance",
+            "system optimization",
+            "artificial vision"
+          ]
+        },
+        {
+          "text": "Collaborated closely with the R&D department to validate and deploy emerging artificial vision technologies in real-world environments.",
+          "keywords": [
+            "R&D",
+            "validation",
+            "testing",
+            "prototyping",
+            "artificial vision",
+            "technology deployment"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Customer Support Engineer",
+      "company": "Iristrace",
+      "dates": "Oct 2020 - Jul 2021",
+      "company_description": "This company is divided into three areas. It is dedicated to drone consulting (specifically, aircraft control), markets products to increase drone safety, and is developing a helicopter-type drone for surveillance and firefighting.",
+      "bullet_points": [
+        {
+          "text": "Trained and onboarded over 30 clients, facilitating their adaptation and successful use of a customized software tool.",
+          "keywords": [
+            "customer success",
+            "training",
+            "onboarding",
+            "client management",
+            "SaaS"
+          ]
+        },
+        {
+          "text": "Provided level 1 and level 2 technical support, consistently resolving approximately 40 support tickets per week.",
+          "keywords": [
+            "technical support",
+            "customer support",
+            "ticketing system",
+            "problem-solving"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master in Robotics and Artificial Vision",
+      "university": "Universitat Politècnica de València (UPV)",
+      "dates": "2022 - 2023",
+      "details": "Specialized training in image/video analysis with OpenCV, pneumatic circuit design, and PLC programming (Siemens, Weidmuller) using TIA Portal."
+    },
+    {
+      "degree": "B.Sc. in Industrial Engineering",
+      "university": "Universitat Politècnica de València (UPV)",
+      "dates": "2017 - 2021",
+      "bullet_points": [
+        {
+          "text": "Actively participated in the FSUPV team, contributing to the chassis and engine design for a Formula 1-style competition car.",
+          "keywords": [
+            "FSUPV",
+            "automotive engineering",
+            "mechanical design",
+            "chassis",
+            "engine",
+            "team collaboration"
+          ]
+        },
+        {
+          "text": "Competed in several IDEASUPV entrepreneurship competitions, winning multiple awards for innovative projects.",
+          "keywords": [
+            "IDEASUPV",
+            "entrepreneurship",
+            "innovation",
+            "project management"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "technical_skills": [
+      "Field Service",
+      "Commissioning & Installation",
+      "Quality Assurance (QA)",
+      "Technical Support (Level 1 & 2)",
+      "Artificial Vision & Machine Vision",
+      "PLC (Siemens, Weidmuller)",
+      "TIA Portal",
+      "OpenCV",
+      "Drone Technology (UAVs)",
+      "Jira Ticketing System",
+      "Pneumatic Circuit Design",
+      "Mechanical & Electrical Troubleshooting",
+      "R&D Collaboration & Validation"
+    ],
+    "soft_skills": [
+      "Customer Service & Relations",
+      "Client Training & Onboarding",
+      "Problem-Solving",
+      "Project Management",
+      "Team Collaboration",
+      "Process Improvement"
+    ]
+  }
+}

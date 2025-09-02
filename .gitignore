@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive Credentials & Tokens
+credentials.json
+token.json
+*.env
+
+# Output files and folders
+applications/
+*.xlsx
+*.docx
+*.txt
+# Exclude the "style" file so it can be committed
+!my_writing_style.txt
+
+# OS-specific files
+.DS_Store
